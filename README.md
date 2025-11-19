@@ -1,2 +1,2 @@
 # Algorithm-Sorter
-A python code that sorts algorithms
+C# code that sorts algorithms
