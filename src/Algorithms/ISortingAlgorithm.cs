@@ -1,8 +1,5 @@
-namespace AlgorithmSorter.Algorithms
+public interface ISortAlgorithm
 {
-    public interface ISortingAlgorithm
-    {
-        string Name { get; }
-        void Sort(int[] array, Action<int[], int, int>? visualizationCallback = null);
-    }
+    string Name { get; }
+    void Sort(int[] array, Action<int[]> onStep);
 }
