@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VisualAlgorithmSorter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37b35b0fb0827af5c02a55bc6ee5b3ef3027852e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c60e22554fe7f0f0362362e2e27ce06e159e49b")]
 [assembly: System.Reflection.AssemblyProductAttribute("VisualAlgorithmSorter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VisualAlgorithmSorter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
